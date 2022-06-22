@@ -23,7 +23,7 @@
     <PackageReference Include="LiteDB" Version="4.1.4" />
     <PackageReference Include="MonkeyCache.FileStore" Version="0.1.0.10-beta" />
     <PackageReference Include="Mono.Data.Sqlite.Portable" Version="1.0.3.5" />
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Realm" Version="3.2.1" />
     <PackageReference Include="sqlite-net-standard" Version="1.5.1" />
     <PackageReference Include="Xamarin.Forms" Version="3.0.0.482510" />
