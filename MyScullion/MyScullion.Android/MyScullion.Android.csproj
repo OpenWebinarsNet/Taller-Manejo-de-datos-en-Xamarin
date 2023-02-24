@@ -52,7 +52,7 @@
       <Version>6.0.27</Version>
     </PackageReference>
     <PackageReference Include="LiteDB">
-      <Version>4.1.4</Version>
+      <Version>5.0.13</Version>
     </PackageReference>
     <PackageReference Include="MonkeyCache.FileStore">
       <Version>0.1.0.10-beta</Version>
